@@ -1,0 +1,13 @@
+{
+    "telegram_access_keys": {
+        "api_id": 22262821,
+        "api_hash": "256f779957d230ff99ad41c0c63b7af3",
+        "bot_token": "6359301503:AAEmy4BrA8xkT5qj8u1oXhPSk7lYWP8MRu4"
+    },
+    "members": {
+        "tracked_communities": ["outer_public", "swodki"],
+        "middle_receiver": "dex_public",
+        "final_receiver": "@bohemsru"
+    }
+
+}
