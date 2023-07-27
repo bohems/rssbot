@@ -5,7 +5,7 @@
         "bot_token": "6359301503:AAEmy4BrA8xkT5qj8u1oXhPSk7lYWP8MRu4"
     },
     "members": {
-        "tracked_communities": ["outer_public", "swodki"],
+        "tracked_communities": ["https://t.me/+xWWggUnekZU4N2Zi", "https://t.me/+bpGDQ4hySBxmMTU6", "https://t.me/+k_Z9AGYLs7g5ZGUy", "dvachannel", "apwagner", "ASupersharij"],
         "middle_receiver": "dex_public",
         "final_receiver": "@bohemsru"
     }
